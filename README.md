@@ -1,3 +1,19 @@
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css)
+
+![AI](https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge)
+
+![OCR](https://img.shields.io/badge/OCR-AI-blue?style=for-the-badge)
+
+![Healthcare](https://img.shields.io/badge/Healthcare-AI-success?style=for-the-badge)
+
+![Privacy](https://img.shields.io/badge/Privacy-First-success?style=for-the-badge)
+
+
+
 # 🩺 HealthInsight AI
 
 An AI-powered healthcare application that converts complex medical reports into easy-to-understand insights using OCR, Generative AI, and conversational AI.
