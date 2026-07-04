@@ -37,6 +37,13 @@ HealthInsight AI was built to simplify this experience by transforming medical r
 
 ---
 
+## 💡 Why This Project Matters
+
+Millions of people receive medical reports containing complex terminology that can be difficult to understand.
+
+HealthInsight AI simplifies this process by translating technical findings into plain language, helping users prepare more informed conversations with healthcare professionals while maintaining a privacy-first experience.
+
+
 # 🎯 Problem Statement
 
 Understanding health reports requires medical knowledge.
