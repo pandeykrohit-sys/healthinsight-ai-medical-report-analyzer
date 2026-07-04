@@ -69,25 +69,30 @@ The application is designed strictly for educational purposes and does not repla
 
 # ✨ Key Features
 
-✅ Upload PDF, JPG, PNG medical reports
+✅ Upload PDF, JPG and PNG reports
 
 ✅ OCR-based report extraction
 
-✅ AI-powered medical interpretation
+✅ AI medical interpretation
 
 ✅ Executive Summary
 
-✅ Abnormal value detection
+✅ Risk Assessment
 
-✅ Health risk scoring
+✅ Wellness Indicator
 
-✅ Lifestyle recommendations
+✅ AI Chat Assistant
 
-✅ Personalized AI chat
+✅ Professional PDF Summary Export
 
-✅ Privacy-first design
+✅ Supports Multiple Medical Report Types
 
-✅ No login required
+✅ Lifestyle Recommendations
+
+✅ Questions for Doctor
+
+✅ Privacy First Architecture
+
 
 ---
 
@@ -98,6 +103,23 @@ The application is designed strictly for educational purposes and does not repla
 - Healthcare students
 - Recruiters evaluating AI portfolio projects
 - Developers exploring AI healthcare solutions
+
+---
+
+## 📄 Supported Medical Reports
+
+HealthInsight AI currently supports analysis of:
+
+- Blood Tests
+- CBC Reports
+- Thyroid Reports
+- Vitamin Reports
+- Liver Function Tests
+- Kidney Function Tests
+- Diabetes Reports
+- Lipid Profile Reports
+- Full Body Health Checkups
+- Diagnostic Laboratory Reports
 
 ---
 
@@ -166,23 +188,28 @@ OCR Extraction
 
 ↓
 
-AI Processing
+AI Medical Analysis
 
 ↓
 
-Medical Summary
+Executive Summary
 
 ↓
 
-Risk Analysis
+Risk Assessment
 
 ↓
 
-Recommendations
+Lifestyle Recommendations
 
 ↓
 
-Interactive AI Chat
+AI Chat
+
+↓
+
+Professional PDF Summary
+
 ```
 
 ---
@@ -200,6 +227,23 @@ HealthInsight AI generates:
 - Lifestyle Advice
 - Questions for Doctor
 - AI Chat Responses
+
+
+## 📥 Downloadable Report Summary
+
+After completing analysis, users can download a professionally formatted PDF containing:
+
+- Executive Summary
+- Confidence Score
+- Wellness Indicator
+- Key Findings
+- Specialist Insights
+- Lifestyle Recommendations
+- Questions for Doctor
+- Medical Disclaimer
+
+The report is suitable for saving, printing or discussing with a healthcare professional.
+
 
 ---
 
@@ -284,17 +328,16 @@ During development I focused on solving several real-world challenges:
 
 ---
 
-# 📈 Future Enhancements
+## 🚀 Future Enhancements
 
-- User Authentication
-- Report History
+- User Accounts
+- Previous Report History
 - Multi-language Support
-- Doctor Report Export
+- Doctor Sharing
 - Family Health Dashboard
-- Download PDF Summary
 - Voice Assistant
-- AI Health Trends
-- Smart Follow-up Recommendations
+- Trend Analysis across reports
+- Mobile Application
 
 ---
 
@@ -302,23 +345,25 @@ During development I focused on solving several real-world challenges:
 
 ## Home Screen
 
-<img width="1025" height="1072" alt="Dashboard-ScreenShot" src="https://github.com/user-attachments/assets/c7fc20ad-428e-40ae-9521-58e24c910523" />
+<img width="932" height="1155" alt="Dashboard" src="https://github.com/user-attachments/assets/2c5f4e91-cd85-4656-ac5c-c8f8ba6f6358" />
+
 
 
 ---
 
 ## Upload Medical Report
 
-<img width="1542" height="1188" alt="upload-screen" src="https://github.com/user-attachments/assets/919ca31e-5a3e-482f-b5eb-7c9e639e2ed6" />
+<img width="1602" height="1198" alt="upload-screen" src="https://github.com/user-attachments/assets/e2a3c3e8-b90f-45b2-89d6-ac3efb6d2817" />
+
 
 
 ---
 
 ## AI Analysis Dashboard
 
-<img width="987" height="963" alt="analysis-dashboard-3" src="https://github.com/user-attachments/assets/e7740f6b-306d-487b-a5f5-f65c510f8a34" />
-<img width="1213" height="945" alt="analysis-dashboard-2" src="https://github.com/user-attachments/assets/0b328aa4-bb90-4d21-aac7-2e04e14d22e9" />
-<img width="1038" height="975" alt="analysis-dashboard-1" src="https://github.com/user-attachments/assets/683b077f-aaa6-480c-98d9-fc70b04b0fc3" />
+<img width="1557" height="1198" alt="analysis-dashboard-1" src="https://github.com/user-attachments/assets/775eedda-5bce-45f5-a18a-835ac5a3bff4" />
+<img width="1247" height="1122" alt="analysis-dashboard-2" src="https://github.com/user-attachments/assets/2db1d0ed-f7e4-4eba-973e-592f030823c7" />
+<img width="1366" height="1182" alt="analysis-dashboard-3" src="https://github.com/user-attachments/assets/b8ffa70c-b631-4b63-936a-3bf93546961c" />
 
 
 ---
