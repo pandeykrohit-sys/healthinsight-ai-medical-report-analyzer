@@ -44,6 +44,20 @@ Millions of people receive medical reports containing complex terminology that c
 HealthInsight AI simplifies this process by translating technical findings into plain language, helping users prepare more informed conversations with healthcare professionals while maintaining a privacy-first experience.
 
 
+## 📈 Business Impact
+
+HealthInsight AI demonstrates how Generative AI can improve accessibility and user experience in healthcare by:
+
+- Simplifying complex medical terminology
+- Reducing information overload
+- Helping users prepare informed questions before doctor consultations
+- Supporting privacy-first AI workflows
+- Generating structured health summaries for easier understanding
+
+This project showcases practical AI product thinking rather than only implementing an LLM interface.
+
+
+
 # 🎯 Problem Statement
 
 Understanding health reports requires medical knowledge.
